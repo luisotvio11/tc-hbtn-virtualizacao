@@ -41,6 +41,7 @@ nosso caso Windows 2008 Server. Esse é um tipo de Hypervisor do tipo 2.
 
 Configuração recomendada para o Host suportar 3 máquinas virtuais:
 
+- Sistema operacional do Host
 - Servidor Dell PowerEdge T350 
 - Memória 32Gb x DDR4
 - Processador - Intel® Xeon® E-2324G (3.1 GHz, 8M Cache, 4 núcleos/4 threads, Turbo 65W, 3200 MT/s) 
