@@ -34,12 +34,12 @@ Após a máquina reiniciar vamos a criação da máquina virtual. Fazemos da seg
 - Ligar a VM
 - Instalar o sistema operacional
 
-Seguindo esse passo a passo, podemos ter o nosso sistema operacional em execulção.
+Seguindo esse passo a passo, podemos ter o nosso sistema operacional em execução.
 
 Podemos ver que com a execução do hyper-v não é executada diretamente no Hardware. Em vez disso, ele é executado como um aplicativo em um S.O no 
-nosso caso Windows 2008 Server. Esse é um tipo de Hypervisor tipo 2.
+nosso caso Windows 2008 Server. Esse é um tipo de Hypervisor do tipo 2.
 
-Configuração recomendada para um servidor suportar 3 máquinas virtuais:
+Configuração recomendada para o Host suportar 3 máquinas virtuais:
 
 - Servidor Dell PowerEdge T350 
 - Memória 32Gb x DDR4
