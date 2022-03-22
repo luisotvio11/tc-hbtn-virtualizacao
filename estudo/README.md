@@ -7,7 +7,7 @@
 - Virtualização de Servidores
 
 ## Tipo de Virtualização estudo de caso Instituto Mackenzie?
-- Virtualização de data center
+- Virtualização em nuvem
 
 ## Tipo de virtualização estudo de caso Mondial Assistance?
  Virtualização de Desktops
