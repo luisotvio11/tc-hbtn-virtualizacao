@@ -4,10 +4,10 @@
 - Virtualização de Armazenamento
 
 ## Tipo de virtualização estudo de caso Fundação Bradesco?
-- Virtualização de Servidores
+- Virtualização em Nuvem
 
 ## Tipo de Virtualização estudo de caso Instituto Mackenzie?
-- Virtualização em nuvem
+- Virtualização de Data Center
 
 ## Tipo de virtualização estudo de caso Mondial Assistance?
  Virtualização de Desktops
